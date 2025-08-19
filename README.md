@@ -1,4 +1,4 @@
-# 🚀 Zero Hour Code – DSA – Problem Set
+# Zero Hour Code – DSA – Problem Set
 
 > **“Your Final Hour, Your Strongest Shot.”**
 
@@ -10,11 +10,11 @@ Designed for **last-minute revision** and **high-impact preparation**, this repo
 
 ## 📌 What's Inside?
 
-✅ Clean, well-commented solutions in **C++** and **Java**  
-✅ Problems categorized by **topic** and **difficulty**  
-✅ Covers key **DSA patterns** used in interviews  
-✅ Great for both **deep learning** and **quick revision**  
-✅ Inspired by real-world **FAANG interview experiences**
+1. Clean, well-commented solutions in **C++** and **Java**  
+2. Problems categorized by **topic** and **difficulty**  
+3. Covers key **DSA patterns** used in interviews  
+4. Great for both **deep learning** and **quick revision**  
+5. Inspired by real-world **FAANG interview experiences**
 
 ---
 
@@ -35,16 +35,16 @@ Designed for **last-minute revision** and **high-impact preparation**, this repo
 
 ---
 
-## 🎯 Who Is This For?
+## Who Is This For?
 
-- 📌 Students preparing for **coding interviews**
-- 📌 Competitive programmers
-- 📌 Professionals brushing up DSA fundamentals
-- 📌 Anyone looking for **quick & effective** revision
+- Students preparing for **coding interviews**
+- Competitive programmers
+- Professionals brushing up DSA fundamentals
+- Anyone looking for **quick & effective** revision
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Browse by topic
 2. Read through code + inline explanations
@@ -53,18 +53,18 @@ Designed for **last-minute revision** and **high-impact preparation**, this repo
 
 ---
 
-## ✍️ Contributing
+## Contributing
 
 Feel free to contribute if:
 - You solved a similar problem with a better approach
 - You want to add a new DSA pattern or topic
 - You found a bug or typo in existing code
 
-Just fork, branch, and raise a pull request 🚀
+Just fork, branch, and raise a pull request.
 
 ---
 
-## 👨‍💻 About Zero Hour Code
+## About Zero Hour Code
 
 We provide **last-minute, high-leverage coding resources** for top interview prep.  
 Built for those crucial final days when precision, speed, and quality matter the most.
