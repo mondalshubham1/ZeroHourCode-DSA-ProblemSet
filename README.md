@@ -8,7 +8,7 @@ Designed for **last-minute revision** and **high-impact preparation**, this repo
 
 ---
 
-## 📌 What's Inside?
+## What's Inside?
 
 1. Clean, well-commented solutions in **C++** and **Java**  
 2. Problems categorized by **topic** and **difficulty**  
@@ -18,7 +18,7 @@ Designed for **last-minute revision** and **high-impact preparation**, this repo
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Arrays & Strings
 - Hashing & Two Pointers
