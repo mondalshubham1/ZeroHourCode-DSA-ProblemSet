@@ -21,12 +21,15 @@ class Solution {
         queue.add(new Pair(root, 0));
         while (!queue.isEmpty()) {
             int levelLen = queue.size();
+            
+            // the minimum index of any node in that level
             int min_index = queue.peek().index;
             
             for (int i = 0; i < levelLen; i++) {
                 Pair node = queue.poll();
 
-                if(i==levelLen-1) {;
+                // Means you've reached the end node
+                if(i==levelLen-1) {
                     result = Math.max(result, node.index-min_index+1);
                 }
 
