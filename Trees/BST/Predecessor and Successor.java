@@ -19,12 +19,12 @@ class Solution {
         
         Node curr = root;
         while(curr!=null) {
-            if(curr.data > key) {
-                successor = curr;
-                curr=curr.left;
+            if(curr.data > key) {   // if you get a node value greater than key, it's a potential successor
+                successor = curr;   
+                curr=curr.left;     // try to reduce the value of successor by going left
             }
             else {
-                curr = curr.right;
+                curr = curr.right;    // if the node value is lesser than key, definitely you'll find the successor in the right subtree if it exists
             }
         }
         
