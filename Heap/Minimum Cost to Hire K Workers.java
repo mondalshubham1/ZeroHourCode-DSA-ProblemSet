@@ -1,3 +1,5 @@
+// Problem Link : https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/
+
 class Solution {
     // Helper class to store wage-to-quality ratio and quality
     class Pair {
